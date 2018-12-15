@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".Monitor">
         </activity>
+        <activity android:name=".Monitor_Add">
+        </activity>
     </application>
 
 </manifest>
