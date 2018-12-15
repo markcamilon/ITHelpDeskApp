@@ -13,11 +13,4 @@
         <item>Okay</item>
         <item>Not Yet Okay</item>
     </string-array>
-
-    <string-array name="typeOfMonitor">
-        <item>LCD Monitor</item>
-        <item>LED Monitor</item>
-        <item>OLED Monitor</item>
-    </string-array>
-
 </resources>
