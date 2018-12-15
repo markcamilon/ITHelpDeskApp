@@ -13,4 +13,10 @@
         <item>Okay</item>
         <item>Not Yet Okay</item>
     </string-array>
+
+    <string-array name="typeOf">
+        <item>LED Monitor</item>
+        <item>LCD Monitor</item>
+        <item>OLED Monitor</item>
+    </string-array>
 </resources>
