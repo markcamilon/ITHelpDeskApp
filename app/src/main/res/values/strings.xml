@@ -6,4 +6,11 @@
     <string name="brand">Brand</string>
     <string name="monitor">Monitor</string>
     <string name="serial_number">Serial Number</string>
+    <string name="control_number">Control Number</string>
+    <string name="screen_size">Screen Size</string>
+
+    <string-array name="status">
+        <item>Okay</item>
+        <item>Not Yet Okay</item>
+    </string-array>
 </resources>
