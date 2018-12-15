@@ -4,4 +4,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="brand">Brand</string>
+    <string name="monitor">Monitor</string>
+    <string name="serial_number">Serial Number</string>
 </resources>
