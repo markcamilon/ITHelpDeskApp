@@ -5,7 +5,7 @@ import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
-//Main Activity
+//IT Help Desk
 
 class MainActivity : AppCompatActivity() {
 
