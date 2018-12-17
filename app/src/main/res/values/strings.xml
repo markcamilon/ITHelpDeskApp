@@ -8,6 +8,7 @@
     <string name="serial_number">Serial Number</string>
     <string name="control_number">Control Number</string>
     <string name="screen_size">Screen Size</string>
+    <string name="todo">TODO</string>
 
     <string-array name="status">
         <item>Okay</item>
